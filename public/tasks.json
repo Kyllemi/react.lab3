@@ -1,0 +1,7 @@
+[
+  { "id": 1, "title": "Вивчити лабу", "completed": false },
+  { "id": 2, "title": "Піти на лекцію 5 пара п'ятниця", "completed": false },
+  { "id": 3, "title": "Здати лабу", "completed": false },
+  { "id": 4, "title": "Поспати", "completed": false },
+  { "id": 5, "title": "Здати сесію", "completed": false }
+]
